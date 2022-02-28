@@ -1,0 +1,8 @@
+{
+  "block.gemed.smithing_anvil": "Smithing Anvil",
+  "block.gemed.steel_block": "Block of Steel",
+  "item.gemed.steel_ingot": "Steel Ingot",
+  "item.gemed.steel_nugget": "Steel Nugget",
+  "item.gemed.steel_pickaxe": "Steel Pickaxe",
+  "itemGroup.gemed": "GE Medieval Items"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " i ",
+    " i "
+  ],
+  "key": {
+    "I": {
+      "item": "gemed:steel_ingot"
+    },
+    "i": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gemed:steel_pickaxe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " i ",
+    "iii"
+  ],
+  "key": {
+    "I": {
+      "item": "gemed:steel_block"
+    },
+    "i": {
+      "item": "gemed:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "gemed:smithing_anvil"
+  }
+}

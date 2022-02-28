@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": "gemed:steel_nugget",
+  "experience": 1.0,
+  "cookingtime": 12
+}

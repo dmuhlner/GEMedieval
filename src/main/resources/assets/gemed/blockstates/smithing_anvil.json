@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 270
+    },
+    "facing=north,lit=false": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 180
+    },
+    "facing=south,lit=false": {
+      "model": "gemed:block/smithing_anvil"
+    },
+    "facing=west,lit=false": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 270
+    },
+    "facing=north,lit=true": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "gemed:block/smithing_anvil"
+    },
+    "facing=west,lit=true": {
+      "model": "gemed:block/smithing_anvil",
+      "y": 90
+    }
+  }
+}
